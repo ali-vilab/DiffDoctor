@@ -35,7 +35,7 @@
 
 ## TODO
 * **[TODO]** Release the artifact detector checkpoint.
-* **[TODO]** Release the code for training the diffusio model using the artifact detector.
+* **[DONE✅]** Release the code for training the diffusion model using the artifact detector. 
 
 
 ## Installation
