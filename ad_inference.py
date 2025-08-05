@@ -11,6 +11,7 @@ import os
 
 
 segformer_path = 'checkpoints/ad_pytorch_model.bin'
+# segformer_path = 'checkpoints/ad_richhf_baseline_model.bin' # Baseline AD trained from RichHF dataset
 image_dir = 'asset/input'
 device = 'cuda'
 
