@@ -33,8 +33,8 @@
     </tr>
   </table>
 
-## TODO
-* **[TODO]** Release the artifact detector checkpoint.
+## TODOs
+* **[DONE✅]** Release the artifact detector checkpoint (in ```checkpoints/```).
 * **[DONE✅]** Release the code for training the diffusion model using the artifact detector. 
 
 
@@ -46,7 +46,7 @@ pip install -r requirements.txt
 
 
 ## Download Checkpoints
-- Download the artifact detector checkpoint from TODO and put it in ```checkpoints/```.
+- Download the artifact detector checkpoint using ```git lfs``` and put it in ```checkpoints/```.
 - Download [Flux.1-Schnell](https://huggingface.co/black-forest-labs/FLUX.1-schnell) or [Flux.1-Dev](https://huggingface.co/black-forest-labs/FLUX.1-dev) checkpoint from HuggingFace.
 
 
