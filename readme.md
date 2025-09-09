@@ -46,7 +46,7 @@ pip install -r requirements.txt
 
 
 ## Download Checkpoints
-- Download the artifact detector checkpoint using ```git lfs``` and put it in ```checkpoints/```.
+- Download the artifact detector checkpoint using ```git lfs``` and put it in ```checkpoints/``` (use ```git lfs install``` to install first, and then use the git commands as usual). If you are not familiar with git lfs, you can directly download it through the download icon (see ISSUE #1).
 - Download [Flux.1-Schnell](https://huggingface.co/black-forest-labs/FLUX.1-schnell) or [Flux.1-Dev](https://huggingface.co/black-forest-labs/FLUX.1-dev) checkpoint from HuggingFace.
 
 
